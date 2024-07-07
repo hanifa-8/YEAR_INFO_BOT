@@ -1,0 +1,114 @@
+2024-07-06T19:42:24.405Z info: Received message from 5946393936: /start
+2024-07-06T19:42:33.298Z info: Received message from 5946393936: /help
+2024-07-06T19:42:46.463Z info: Received message from 5946393936: 34256
+2024-07-06T19:42:52.853Z info: Received message from 5946393936: 4536
+2024-07-06T19:47:20.126Z error: Polling error: ETELEGRAM: 404 Not Found
+2024-07-06T19:47:20.838Z error: Polling error: ETELEGRAM: 404 Not Found
+2024-07-06T19:47:21.430Z error: Polling error: ETELEGRAM: 404 Not Found
+2024-07-06T19:47:22.025Z error: Polling error: ETELEGRAM: 404 Not Found
+2024-07-06T19:47:22.740Z error: Polling error: ETELEGRAM: 404 Not Found
+2024-07-06T19:47:23.391Z error: Polling error: ETELEGRAM: 404 Not Found
+2024-07-06T19:47:24.086Z error: Polling error: ETELEGRAM: 404 Not Found
+2024-07-06T19:47:24.994Z error: Polling error: ETELEGRAM: 404 Not Found
+2024-07-06T19:47:25.547Z error: Polling error: ETELEGRAM: 404 Not Found
+2024-07-06T19:47:26.161Z error: Polling error: ETELEGRAM: 404 Not Found
+2024-07-06T19:47:27.156Z error: Polling error: ETELEGRAM: 404 Not Found
+2024-07-06T19:47:27.760Z error: Polling error: ETELEGRAM: 404 Not Found
+2024-07-06T19:47:28.271Z error: Polling error: ETELEGRAM: 404 Not Found
+2024-07-06T19:47:29.234Z error: Polling error: ETELEGRAM: 404 Not Found
+2024-07-06T19:47:29.758Z error: Polling error: ETELEGRAM: 404 Not Found
+2024-07-06T19:47:30.628Z error: Polling error: ETELEGRAM: 404 Not Found
+2024-07-06T19:47:31.192Z error: Polling error: ETELEGRAM: 404 Not Found
+2024-07-06T19:47:32.011Z error: Polling error: ETELEGRAM: 404 Not Found
+2024-07-06T19:47:32.830Z error: Polling error: ETELEGRAM: 404 Not Found
+2024-07-06T19:47:33.582Z error: Polling error: ETELEGRAM: 404 Not Found
+2024-07-06T19:47:34.452Z error: Polling error: ETELEGRAM: 404 Not Found
+2024-07-06T19:47:35.112Z error: Polling error: ETELEGRAM: 404 Not Found
+2024-07-06T19:47:35.685Z error: Polling error: ETELEGRAM: 404 Not Found
+2024-07-06T19:47:36.271Z error: Polling error: ETELEGRAM: 404 Not Found
+2024-07-06T19:47:37.071Z error: Polling error: ETELEGRAM: 404 Not Found
+2024-07-06T19:47:37.568Z error: Polling error: ETELEGRAM: 404 Not Found
+2024-07-06T19:47:38.065Z error: Polling error: ETELEGRAM: 404 Not Found
+2024-07-06T19:47:38.556Z error: Polling error: ETELEGRAM: 404 Not Found
+2024-07-06T19:47:39.054Z error: Polling error: ETELEGRAM: 404 Not Found
+2024-07-06T19:47:39.553Z error: Polling error: ETELEGRAM: 404 Not Found
+2024-07-06T19:47:40.050Z error: Polling error: ETELEGRAM: 404 Not Found
+2024-07-06T19:47:40.550Z error: Polling error: ETELEGRAM: 404 Not Found
+2024-07-06T19:47:41.040Z error: Polling error: ETELEGRAM: 404 Not Found
+2024-07-06T19:47:41.541Z error: Polling error: ETELEGRAM: 404 Not Found
+2024-07-06T19:47:42.032Z error: Polling error: ETELEGRAM: 404 Not Found
+2024-07-06T19:47:42.523Z error: Polling error: ETELEGRAM: 404 Not Found
+2024-07-06T19:47:43.013Z error: Polling error: ETELEGRAM: 404 Not Found
+2024-07-06T19:47:43.510Z error: Polling error: ETELEGRAM: 404 Not Found
+2024-07-06T19:47:44.008Z error: Polling error: ETELEGRAM: 404 Not Found
+2024-07-06T19:47:44.503Z error: Polling error: ETELEGRAM: 404 Not Found
+2024-07-06T19:47:45.035Z error: Polling error: ETELEGRAM: 404 Not Found
+2024-07-06T19:47:45.536Z error: Polling error: ETELEGRAM: 404 Not Found
+2024-07-06T19:47:46.191Z error: Polling error: ETELEGRAM: 404 Not Found
+2024-07-06T19:47:46.683Z error: Polling error: ETELEGRAM: 404 Not Found
+2024-07-06T19:47:47.179Z error: Polling error: ETELEGRAM: 404 Not Found
+2024-07-06T19:53:21.582Z info: Received message from 5946393936: /start
+2024-07-06T19:53:28.924Z info: Received message from 5946393936: /start
+2024-07-06T19:53:33.870Z info: Received message from 5946393936: 3452
+2024-07-06T19:53:40.506Z info: Received message from 5946393936: /help
+2024-07-06T19:53:51.587Z info: Received message from 5946393936: /author
+2024-07-06T19:53:57.547Z info: Received message from 5946393936: /about
+2024-07-06T19:54:03.939Z info: Received message from 5946393936: 3456
+2024-07-06T19:54:57.272Z info: Received message from 5946393936: 4567
+2024-07-06T19:55:05.501Z info: Received message from 5946393936: 7890
+2024-07-06T19:55:10.923Z info: Received message from 5946393936: 6578
+2024-07-06T19:59:12.502Z info: Received message from 5946393936: 3456
+2024-07-06T19:59:20.876Z info: Received message from 5946393936: 2025
+2024-07-06T19:59:27.330Z info: Received message from 5946393936: 1234
+2024-07-06T19:59:35.232Z info: Received message from 5946393936: 908\
+2024-07-06T19:59:41.274Z info: Received message from 5946393936: 678
+2024-07-06T19:59:46.852Z info: Received message from 5946393936: 678Ad
+2024-07-06T19:59:50.975Z info: Received message from 5946393936: 2345
+2024-07-06T19:59:55.981Z info: Received message from 5946393936: 2020
+2024-07-06T20:00:02.873Z info: Received message from 5946393936: /about
+2024-07-06T20:00:11.687Z info: Received message from 5946393936: /author
+2024-07-06T20:01:54.702Z info: Received message from 5946393936: /start
+2024-07-06T20:01:59.357Z info: Received message from 5946393936: /help
+2024-07-06T20:02:02.984Z info: Received message from 5946393936: 2345
+2024-07-06T20:02:06.892Z info: Received message from 5946393936: 2020
+2024-07-06T20:02:13.620Z info: Received message from 5946393936: /author
+2024-07-06T20:02:21.358Z info: Received message from 5946393936: /about
+2024-07-06T20:04:16.311Z info: Received message from 5946393936: bye
+2024-07-06T20:04:20.835Z info: Received message from 5946393936: 5678
+2024-07-06T20:04:23.962Z info: Received message from 5946393936: 2345
+2024-07-06T20:04:27.274Z info: Received message from 5946393936: /help
+2024-07-06T20:05:57.107Z info: Received message from 5946393936: hello
+2024-07-06T20:06:07.498Z info: Received message from 5946393936: /help
+2024-07-06T20:06:21.491Z info: Received message from 5946393936: 2345
+2024-07-06T20:08:56.998Z info: Received message from 5946393936: hello
+2024-07-06T20:09:06.631Z info: Received message from 5946393936: 2345
+2024-07-06T20:09:11.076Z info: Received message from 5946393936: bye
+2024-07-07T10:27:21.535Z info: Received message from 5946393936: Hello
+2024-07-07T10:27:35.399Z info: Received message from 5946393936: /start
+2024-07-07T10:27:39.580Z info: Received message from 5946393936: 2024
+2024-07-07T10:27:47.404Z info: Received message from 5946393936: /help
+2024-07-07T10:27:53.214Z info: Received message from 5946393936: /author
+2024-07-07T10:30:12.350Z info: Received message from 5946393936: Bye
+2024-07-07T10:30:12.352Z info: Received message from 5946393936: Bye
+2024-07-07T10:30:15.997Z info: Received message from 5946393936: Bye
+2024-07-07T10:30:17.874Z info: Received message from 5946393936: Hellow
+2024-07-07T10:30:22.024Z info: Received message from 5946393936: /start
+2024-07-07T10:30:33.704Z info: Received message from 5946393936: /help
+2024-07-07T10:30:38.056Z info: Received message from 5946393936: /author
+2024-07-07T10:30:42.482Z info: Received message from 5946393936: /about
+2024-07-07T10:31:08.206Z info: Received message from 5946393936: 24045
+2024-07-07T10:31:12.129Z info: Received message from 5946393936: 2025
+2024-07-07T10:31:16.705Z info: Received message from 5946393936: 2020
+2024-07-07T10:31:20.828Z info: Received message from 5946393936: Wrz
+2024-07-07T10:31:24.920Z info: Received message from 5946393936: 2026
+2024-07-07T10:31:28.106Z info: Received message from 5946393936: 2027
+2024-07-07T10:31:30.379Z info: Received message from 5946393936: 2024
+2024-07-07T10:31:35.411Z info: Received message from 5946393936: Bye
+2024-07-07T10:37:37.386Z info: Received message from 5946393936: Hello
+2024-07-07T10:37:41.210Z info: Received message from 5946393936: 2020
+2024-07-07T10:37:43.824Z info: Received message from 5946393936: 2025
+2024-07-07T10:37:47.887Z info: Received message from 5946393936: /start
+2024-07-07T10:37:51.954Z info: Received message from 5946393936: /help
+2024-07-07T10:37:58.507Z info: Received message from 5946393936: /author
+2024-07-07T10:38:02.594Z info: Received message from 5946393936: /about
+2024-07-07T10:38:08.708Z info: Received message from 5946393936: Bye
